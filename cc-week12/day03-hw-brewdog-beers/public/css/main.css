@@ -1,0 +1,17 @@
+#beer-list {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.beer-item {
+  width: 30%;
+  margin: 0.5rem 0.5rem;
+  padding: 0.5rem 0.8rem;
+  border-radius: 5%;
+  background: #ddeaff;
+  font-size: 100%;
+}
+
+body {
+  font-family: monospace;
+}

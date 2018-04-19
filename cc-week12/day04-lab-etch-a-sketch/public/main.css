@@ -1,0 +1,31 @@
+body{
+  margin:0;
+}
+
+/* canvas{
+border: 1px solid black;
+} */
+
+div{
+  width: 220px;
+    height: 20px;
+    background-color: black;
+    position: relative;
+    top:0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+
+    margin: auto;
+
+}
+
+canvas {
+    padding-left: 0;
+    padding-right: 0;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    border: 10px solid black;
+    width: 700px;
+}

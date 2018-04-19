@@ -1,0 +1,11 @@
+body {
+  background-color: #e5ffff;
+  font-family: monospace;
+  font-size: 3vh;
+  display: inline-block;
+}
+
+.cat {
+  background-color: #669999;
+  width: 100%;
+}

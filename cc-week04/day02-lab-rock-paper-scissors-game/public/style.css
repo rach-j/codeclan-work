@@ -1,0 +1,25 @@
+body {
+  color: cyan;
+  font-size: 40px;
+  text-align: center;
+  font-family: monospace;
+  font-style: italic;
+  background-image: url("https://www.laserfiche.com/content/uploads/2016/01/shutterstock_284660570.jpg");
+  background-size: cover;
+  text-shadow: 4px 0 0 #000;
+
+}
+
+.button {
+    background-color: black;
+    /* border: 2px;
+    border-color: red; */
+    color: cyan;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    margin: 4px 2px;
+    cursor: pointer;
+}

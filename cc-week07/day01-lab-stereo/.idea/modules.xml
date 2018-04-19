@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/StereoLab.iml" filepath="$PROJECT_DIR$/.idea/modules/StereoLab.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/StereoLab_main.iml" filepath="$PROJECT_DIR$/.idea/modules/StereoLab_main.iml" group="StereoLab" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/StereoLab_test.iml" filepath="$PROJECT_DIR$/.idea/modules/StereoLab_test.iml" group="StereoLab" />
+    </modules>
+  </component>
+</project>

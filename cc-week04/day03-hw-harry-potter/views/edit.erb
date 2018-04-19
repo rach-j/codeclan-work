@@ -1,0 +1,33 @@
+<form  action="/studentregistry/<%= @student.id() %>" method="post">
+  <label for="first-name"> First Name: </label>
+  <input id="first-name"value="<%=  @student.first_name() %>" type="text" name="first_name" />
+
+  <label for="last-name"> Last Name: </label>
+  <input id="last-name" value="<%= @student.last_name() %>" type="text" name="last_name" />
+
+  <label for="house-select"> Select a House: </label>
+  <select id="house-select" name="house_id" >
+    <option <%= "selected" if @student.house() == "Gryffindor" %>
+      value=1>
+      Gryffindor
+    </option>
+    <option <%= "selected" if @student.house() == "Hufflepuff" %>
+      value=2>
+      Hufflepuff
+    </option>
+    <option <%= "selected" if @student.house() == "Ravenclaw" %>
+      value=3>
+      Ravenclaw
+    </option>
+    <option <%= "selected" if @student.house() == "Slytherin" %>
+      value=4>
+      Slytherin
+    </option>
+  </select>
+
+  <label for="age"> Age: </label>
+  <input id="age" value="<%= @student.age() %>" type="text" name="age" />
+
+  <input type="submit" name="Enter Student"/>
+
+</form>

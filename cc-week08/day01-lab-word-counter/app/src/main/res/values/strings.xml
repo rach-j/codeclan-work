@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WordCounterLab</string>
+    <string name="enterTextPrompt">Add your words here</string>
+    <string name="word_count">Count Words</string>
+</resources>

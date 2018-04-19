@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">RockPaperScissorsLab</string>
+    <string name="instructions">Please select your weapon of choice</string>
+    <string name="RockButton">Rock</string>
+    <string name="PaperButton">Paper</string>
+    <string name="ScissorButton">Scissors</string>
+    <string name="introHeader">Welcome to Rock, Paper, Scissors!</string>
+    <string name="introExplanation">In this game you will be playing against the phone! You can
+        pick either rock, paper, scissors, spock or lizard and the phone will make a choice
+        too.
+        \n \n Rock beats scissors.
+        \n Lizard paper beats rock and spock.
+        \n Scissors beat paper and lizard.
+        \n Lizard beats paper and spock.
+        \n Spock beats scissors and rock.
+        \n \n May the best man or machine win!</string>
+    <string name="draw">you drew!</string>
+    <string name="SpockButton">Spock</string>
+    <string name="LizardButton">Lizard</string>
+</resources>

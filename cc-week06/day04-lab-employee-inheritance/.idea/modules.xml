@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/inheritanceLab.iml" filepath="$PROJECT_DIR$/.idea/modules/inheritanceLab.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/inheritanceLab_main.iml" filepath="$PROJECT_DIR$/.idea/modules/inheritanceLab_main.iml" group="inheritanceLab" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/inheritanceLab_test.iml" filepath="$PROJECT_DIR$/.idea/modules/inheritanceLab_test.iml" group="inheritanceLab" />
+    </modules>
+  </component>
+</project>

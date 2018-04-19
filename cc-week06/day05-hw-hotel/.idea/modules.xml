@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/githomework-week6-day5.iml" filepath="$PROJECT_DIR$/.idea/modules/githomework-week6-day5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/githomework-week6-day5_main.iml" filepath="$PROJECT_DIR$/.idea/modules/githomework-week6-day5_main.iml" group="githomework-week6-day5" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/githomework-week6-day5_test.iml" filepath="$PROJECT_DIR$/.idea/modules/githomework-week6-day5_test.iml" group="githomework-week6-day5" />
+    </modules>
+  </component>
+</project>
