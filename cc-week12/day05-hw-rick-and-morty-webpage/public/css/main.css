@@ -1,0 +1,33 @@
+body {
+  background-image: url(http://hdwpro.com/wp-content/uploads/2018/01/Floral-Galaxy.jpg);
+  font-family: Gaegu, cursive;
+}
+
+#header {
+  /* font-family: 'Nothing You Could Do', cursive; */
+  font-family: 'Get Schwifty', 'Nothing You Could Do', cursive;
+  color: #00FFFF;
+  text-shadow: -5px 0 #7FFF00, 0 5px #7FFF00, 5px 0 #7FFF00, 0 -5px #7FFF00;
+  font-size: 7rem;
+  margin-top: 3rem;
+  margin-bottom: 0;
+  font-weight: lighter;
+}
+
+#select-instructions {
+  color: #7FFF00;
+  font-size: 2.4rem;
+}
+
+#character-detail-view {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.character-item {
+  margin: 2.8rem 2.8rem;
+  padding: 0.5rem 0.8rem;
+  border-radius: 5%;
+  background: #ddeaff;
+  font-size: 100%;
+}
