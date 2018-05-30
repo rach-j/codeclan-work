@@ -1,0 +1,65 @@
+body {
+  margin: 5px;
+  padding: 0;
+  font-family: Verdana, Arial, sans-serif;
+  color: #136CB2;
+  font-size: 13px;
+}
+
+.outer-box {
+  background-color: #F5F5F4;
+}
+
+.box-title {
+  margin-left: 20px;
+  margin-bottom: 15px;
+  font-size: 17px;
+  color: black;
+}
+
+img {
+  height: 28px;
+}
+
+.movieTitle {
+  display: inline-block;
+  vertical-align: top;
+  margin-left: 4px;
+}
+
+.showTimeLink {
+  display: inline-block;
+  float: right;
+  margin-right: 20px;
+  font-size: 11px;
+}
+
+.movie {
+  margin-left: 20px;
+  margin-bottom: 13px;
+}
+
+.see-more-link {
+  margin-top: 7px;
+  margin-bottom: 15px;
+  margin-left: 20px;
+}
+
+.get-showtimes-box {
+  margin-left: 20px;
+  margin-right: 20px;
+  border-top: solid #afafaf;
+  border-bottom: solid #afafaf;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border-width: thin;
+}
+
+.showtimes-button {
+  width: 100%;
+  background-color: #136CB2;
+  border-style: none;
+  height: 50px;
+  color: white;
+  font-size: 20px;
+}
