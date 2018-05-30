@@ -1,0 +1,10 @@
+.column-button {
+  border-radius: 100px;
+  height: 50px;
+  width: 50px;
+}
+
+.column-button:active {
+  background-color: grey;
+  border: none;
+}

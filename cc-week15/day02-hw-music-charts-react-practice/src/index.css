@@ -1,0 +1,51 @@
+body {
+  margin: 40px;
+  padding: 0;
+  font-family: sans-serif;
+  background-image: url("https://cdn.pixabay.com/photo/2013/07/13/12/34/music-159870_1280.png");
+}
+
+.song-list {
+  display: inline-grid;
+  grid-template-columns: 50% 50%;
+  grid-column-gap: 50px;
+  grid-row-gap: 50px;
+  margin-right: 50px;
+}
+
+
+h1 {
+  display: inline-block;
+  margin: 10px;
+  font-size: 50px;
+}
+
+h2 {
+  display: inline-block;
+  max-width: 400px;
+}
+
+p {
+  max-width: 300px;
+}
+
+.image {
+  display: inline-block;
+  margin-bottom: 40px;
+}
+
+.song-details {
+  display: inline-block;
+  margin-left: 15px;
+  vertical-align: top;
+
+}
+
+.song-box-contents {
+  display: inline-block;
+  margin-left: 10px;
+}
+
+.song-box {
+  background-color: rgba(177, 218, 250, 0.7);
+}

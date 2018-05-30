@@ -1,0 +1,7 @@
+.game-board{
+  display: inline-grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
+  grid-column-gap: 50px;
+  background-color: blue;
+  padding: 30px;
+}

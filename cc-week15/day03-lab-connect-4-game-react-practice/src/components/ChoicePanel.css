@@ -1,0 +1,8 @@
+.choice-buttons{
+  display: inline-grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
+  grid-column-gap: 50px;
+  margin-bottom: 30px;
+  margin-left: 33px;
+  border: none;
+}
